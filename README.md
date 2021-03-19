@@ -3,3 +3,4 @@ This is where I add every ML algorithm i make and just dabbles around in ML in g
 
 # Added Algorithms :
 1- Gaussian Discriminant Analysis
+2- Density Estimation with Parzen Window Estimator
